@@ -27,6 +27,10 @@
             //no because sealed prevents further overriding 
 
             #endregion
+
+            #region PARCTICAL 
+            //بلغت حضرتك اني معرفتش اكمل الpractical
+            #endregion
         }
     }
 }
