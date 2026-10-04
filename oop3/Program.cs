@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region question1 
+            //a 
+            //overloading is the smae method with different parameters
+            //overriding is redefining a parent class method in a child class 
+           //b
+           //static binding method decided at compile time
+           //dynamic binding method decided at runtime 
+
+
+            #endregion
         }
     }
 }
